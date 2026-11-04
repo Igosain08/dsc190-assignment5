@@ -1,5 +1,5 @@
 def main():
-    print("Hello from dsc190-assignment5!")
+    print("Hello from repo!")
 
 
 if __name__ == "__main__":
